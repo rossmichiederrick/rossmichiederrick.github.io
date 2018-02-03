@@ -1,0 +1,77 @@
+
+            body {background-color:#777;
+                width:960px;
+            }
+
+            .boxed {
+                background-color:#ebebeb ;
+                color:#777;
+                text-align:center;
+                padding:36px;
+                font-size:18px;
+                width:944px;
+                margin:8px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .sec1 {
+                background-color:#ebebeb;
+                width: 495px;
+                color:#777;
+                text-align:center;
+                font-size:18px;
+                padding:6px;
+                margin:8px;
+                font-family: Arial, Helvetica, sans-serif;
+                display:inline-block;
+                
+
+            }
+            .sec5{
+                background-color: #ebebeb;
+                color: #777;
+                margin: 20px;
+                text-align:center;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+            .sec2 {
+                background-color:#777;
+                color:#ebebeb;
+                text-align:center;
+                padding:8px;
+                margin:6px;
+                font-family: Arial, Helvetica, sans-serif;
+                
+            }
+            .sec3 {
+                background-color:#ebebeb;
+                text-align:center;
+                color:#777;
+                margin:10px;
+                padding:1px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .sec4 {
+                background-color:#ebebeb;
+                text-align:center;
+                color:#777;
+                margin:10px;
+                padding:1px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .sec6 {
+                background-color: #777;
+                color:#ebebeb;
+                margin: 6px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .aside {
+                background-color: #ebebeb;
+                color:#777;
+                text-align:center;
+                margin:8px;
+                float:right;
+                width: 439px
+            }
+        
+        
